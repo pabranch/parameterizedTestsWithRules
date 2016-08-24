@@ -5,4 +5,5 @@ bin/
 lib/
 target
 *.iml
-.idea
+.idea/
+.c9/
